@@ -59,8 +59,7 @@
 
 *2018 March-May*
 
-* Dfakjdfhf
-* dfgjf
+
 
 + **HTML, CSS & JavaScript course at Educational Center of HTP (offline)**
   

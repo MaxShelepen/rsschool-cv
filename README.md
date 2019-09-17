@@ -1,1 +1,0 @@
-# rsschool-cv 2019Q3

@@ -15,7 +15,6 @@
 **Skype:**
 
 ## Skills
-____
 
 **Web Technologies:** 
 * HTML
@@ -23,7 +22,6 @@ ____
 * JavaScript
 
 ## Education
-____
 
 **HTML, CSS & JavaScript course at HTP of Belarus**
 
@@ -33,5 +31,4 @@ ____
 * dfgjf
 
 ## Experience
-____
 

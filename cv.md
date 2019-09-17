@@ -86,13 +86,13 @@
 
 ## PRESENT WORK:
 
- ### Company name: Зower station CHP-3
+ **Company name: Зower station CHP-3**
 
- ### Position: electrician repairman
+ **Position: electrician repairman**
 
- ### Period: 01.08.2012 - pres.
+ **Period: 01.08.2012 - pres.**
 
- ### Main responsibilities:
+ **Main responsibilities:**
 
 
 > Carrying out timely repairs

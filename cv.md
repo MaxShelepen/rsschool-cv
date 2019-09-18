@@ -1,6 +1,6 @@
 # CV Junior Frontend Developer
 ![Photo](cv.png)
-## Maxim Shelepen
+## Max Shelepen
 
 **Location:** Minsk, BELARUS
 
@@ -53,15 +53,10 @@
 
   * Windows
 
-+ ## Education
-
-**HTML, CSS & JavaScript course at HTP of Belarus**
+ ## Education
 
 *2018 March-May*
-
-
-
-+ **HTML, CSS & JavaScript course at Educational Center of HTP (offline)**
++ **HTML, CSS & JavaScript course at Educational Center of HTP (offline)** 
   
    * HTML5
 
@@ -85,19 +80,19 @@
 
 ## PRESENT WORK:
 
- **Company name: Зower station CHP-3**
+ **Company name: Power station CHP-3**
 
- **Position: electrician repairman**
+ **Position: Electrician repairman**
 
  **Period: 01.08.2012 - pres.**
 
- **Main responsibilities:**
+ + **Main responsibilities:**
 
 
-> Carrying out timely repairs
+   * Carrying out timely repairs
 
-> Maintenance of high voltage equipment
+    *  Maintenance of high voltage equipment
 
-> Purchase of materials for repair
+    *  Purchase of materials for repair
 
-> Installation works of various nature
+    *  Installation works of various nature

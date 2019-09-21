@@ -1,0 +1,242 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    margin: 10px 10px;
+}
+
+.wrapper {
+    max-width: 1024px;
+    min-height: 600px;
+    margin: 0 auto;
+    background-color: #cde8ff;
+    padding-bottom: 20px;
+}
+
+/*Блок*/
+.header {
+    display: flex;
+    flex-direction: column;
+}
+
+.title__text {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 90px;
+    text-shadow: 12px -9px 0 #f66b9840;
+}
+
+/*Начало блока персональных данных(контактная информация , изображение , текст)*/
+.personal_data {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.image {
+    width: 100%;
+}
+
+.wrp__image {
+    margin: auto;
+    width: 250px;
+    height: 250px;
+    border: 3px solid #fff;
+    border-radius: 100%;
+    overflow: hidden;
+    transition: 0.5s;
+}
+
+.wrp__image:hover {
+    box-shadow: -1px 89px 135px 24px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+}
+
+
+
+.col__prs-data {
+    font-size: 20px;
+    line-height: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.row_prs-data {
+    box-shadow: -11px 14px 0px -3px rgba(0, 0, 0, 0.75);
+    background: white;
+    padding: 20px;
+    transition: 0.2s;
+}
+
+.row_prs-data:hover {
+    box-shadow: -11px 14px 9px 0px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+}
+
+
+
+.container__data {
+    width: 100%;
+}
+
+
+.one__data {
+    max-width: 900px;
+    box-shadow: -11px 14px 0px -3px rgba(0, 0, 0, 0.75);
+    background: white;
+    text-align: center;
+    padding: 20px;
+    margin: 45px auto;
+    transition: 0.2s;
+}
+
+
+
+.one__data p {
+    font-size: 15px;
+}
+
+.one__data:hover {
+    box-shadow: -11px 14px 9px 0px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+}
+
+/*Конец блока персональных данных(контактная информация , изображение , текст)*/
+/*Начало блока skils данных*/
+.container__skils {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+
+.row__skils {
+    box-shadow: -11px 14px 0px -3px rgba(0, 0, 0, 0.75);
+    background: white;
+    padding: 10px;
+    flex-basis: 200xp;
+    flex-basis: 30%;
+    line-height: 35px;
+    transition: 0.2s;
+}
+
+.row__skils:hover {
+    box-shadow: -11px 14px 9px 0px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+}
+
+.lower_lv_lst {
+    list-style-type: circle;
+}
+
+/*Конец блока skils данных*/
+
+/*Начало блока Education данных*/
+.container__edu {
+    margin: auto;
+    box-shadow: -11px 14px 0px -3px rgba(0, 0, 0, 0.75);
+    background: white;
+    padding: 15px;
+    line-height: 35px;
+    transition: 0.2s;
+}
+
+.container__edu:hover {
+    box-shadow: -11px 14px 9px 0px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+}
+
+/*Конец блока Education данных*/
+/*Начало блока Experience данных*/
+.container__exp {
+    margin: auto;
+    box-shadow: -11px 14px 0px -3px rgba(0, 0, 0, 0.75);
+    background: white;
+    line-height: 35px;
+    padding: 15px;
+    transition: 0.2s;
+}
+
+.container__exp:hover {
+    box-shadow: -11px 14px 9px 0px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+}
+
+/*Конец блока Experience данных*/
+
+/*Начало блока PRESENT WORK данных*/
+.container__work {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.row__work {
+    box-shadow: -11px 14px 0px -3px rgba(0, 0, 0, 0.75);
+    background: white;
+    padding: 15px;
+    line-height: 35px;
+    transition: 0.2s;
+}
+
+.row__work:hover {
+    box-shadow: -11px 14px 9px 0px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+}
+
+/*Конец блока PRESENT WORK данных*/
+
+.social__media {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.icon-github {
+    color: black;
+    font-size: 25px;
+
+    transition: 0.2s;
+    display: inline-block;
+}
+
+.icon-github:hover {
+    color: gray;
+}
+
+.icon-linkedin {
+    color: black;
+    font-size: 25px;
+
+    transition: 0.2s;
+    display: inline-block;
+}
+
+.icon-linkedin:hover {
+    color: #0073b1;
+}
+
+.icon-envelop {
+    color: black;
+    font-size: 25px;
+
+    transition: 0.2s;
+    display: inline-block;
+}
+
+.icon-envelop:hover {
+    color: #f32738;
+}
